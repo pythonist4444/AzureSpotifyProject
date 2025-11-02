@@ -1,0 +1,9 @@
+{
+	"name": "df-azspotifyproject",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c52b9674-e595-47b6-ad88-6031524a8049",
+		"tenantId": "dc22a872-fe97-493a-8737-7df04766f18a"
+	}
+}
